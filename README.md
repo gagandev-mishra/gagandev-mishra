@@ -28,7 +28,7 @@ Engineering the layer between LLMs, data, tools, and real-world systems.
 
 **Cloud & AI Engineering**  
 `Custom Connectors` · `FastAPI` · `AsyncIO` · `Concurrency` · `Performance Optimization` · `Docker` · `Azure`
-`AI Foundry` · `Document Intelligence` · `Docker`
+`AI Foundry` · `Document Intelligence`
 
 ---
 
